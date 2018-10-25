@@ -1,6 +1,6 @@
 # shibesbot-db
 
-This is the repo the [@shibesbot](http://twitter.com/shibesbot) Twitter account pulls dog pictures from, woof. If you'd like to contribute, submit a pull request. 
+This is the repo the shibe-bot#3908 Discord bot pulls dog pictures from, woof. If you'd like to contribute, submit a pull request. 
 
 Make sure that:
  * You add the picture to the  `pictures` directory.
